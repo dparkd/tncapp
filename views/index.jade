@@ -1,0 +1,43 @@
+extends layout
+
+block content
+
+	div.jumbotron#intro
+		div.content
+			h1 Welcome to tnc media
+			p Everything you need about tnc in one place
+	
+	div.jumbotron#word
+		div.content.row
+			h2 How to read the posts:
+			h4 These are cards, each are color coded according to their relative website
+			div.col-md-4
+				div.card#facebook
+					p This is facebook
+			div.col-md-4
+				div.card#instagram
+					p This is Instagram
+			div.col-md-4
+				div.card#twitter
+					p This is Twitter
+
+	div.row#feed
+		div.col-md-4#face-feed
+			for face in FacebookData.data
+				a(href= 'https://www.facebook.com/TerraNovaChurchCa?fref=nf' target='_blank')
+					div.card#facebook
+						img(src= face.picture)
+						p= face.message
+						p.date= face.created_time
+		div.col-md-4#insta-feed
+			for insta in InstagramData
+				a(href= insta.link target='_blank')
+					div.card#instagram
+						img(src= insta.images.standard_resolution.url)
+						p= insta.caption.text
+		div.col-md-4#twit-feed
+			for tweet in TwitterData
+				a(href= 'https://twitter.com/TNCVan/status/' + tweet.id_str target='_blank')
+					div.card#twitter
+						p= tweet.text
+						p.date= tweet.created_at

@@ -1,0 +1,1242 @@
+{
+    "data": [
+        {
+            "id": "245144398882598_826772450719787",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Reservations have been made for our Intergenerational Event at Rev's Bowling! I have 3 important points, so please read on if you are attending or are still interested in coming!\n\n1. PAYMENT: you will pay at the bowling alley - I suggest bringing cash (~$8) to save time as there will be 50+ TNC members attending! \n\n2. EXTRA SPOTS: we have ~4 spots left. Please comment below if you or a friend would like to take this spot. First come, first serve!\n\n3. PARENTS: children can bowl for free! We can set up a separate 'bumper' lane for children, so please comment below (or message Jenny Lee) if you are bringing your kid(s) and they'd like to be in a kids-only lane so we can reserve that ASAP! \n\nHave a wonderful rest of the week! :)",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "status_type": "mobile_status_update",
+            "created_time": "2014-11-18T05:31:11+0000",
+            "updated_time": "2014-11-18T05:31:11+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10154869148705585",
+                        "name": "Moses Sang Lim"
+                    },
+                    {
+                        "id": "661279213992340",
+                        "name": "Helen Park"
+                    },
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "10154849065005655",
+                        "name": "Paul Choe"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTQ4NDkwNjUwMDU2NTU=",
+                        "before": "MTAxNTQ4NjkxNDg3MDU1ODU="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_817703444960021",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "REMINDER: Daylight savings time ends tomorrow. We know you can't wait to praise our Lord together, but please enjoy your extra hour of sleep or come join us for pre-service prayer by 11:40am at the TNC office (feel free to ask for directions at the welcoming desk).",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "status_type": "mobile_status_update",
+            "created_time": "2014-11-02T02:57:57+0000",
+            "updated_time": "2014-11-02T02:57:57+0000"
+        },
+        {
+            "id": "245144398882598_782412431822456",
+            "from": {
+                "id": "10152498244889290",
+                "name": "Jenny Lee"
+            },
+            "to": {
+                "data": [
+                    {
+                        "category": "Church/religious organization",
+                        "category_list": [
+                            {
+                                "id": "187714557925874",
+                                "name": "Religious Organization"
+                            }
+                        ],
+                        "name": "Terra Nova Church | Vancouver",
+                        "id": "245144398882598"
+                    }
+                ]
+            },
+            "message": "***** IMPORTANT ***** \nSUNDAY SERVICE (August 31) WILL NOT BE AT BARNET MARINE PARK.\nWe will have service at church by 12pm as usual, due to the weather.\n\nThere will be a BBQ and activities so stick around after service!\n\n**Please pass on the message to our friends and family who may not frequent Facebook or may not have heard**",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "created_time": "2014-08-30T04:11:54+0000",
+            "updated_time": "2014-08-30T04:11:54+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MjQ1MTQ0Mzk4ODgyNTk4",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_777799452283754",
+            "from": {
+                "id": "10152808335300600",
+                "name": "Kevin Her"
+            },
+            "to": {
+                "data": [
+                    {
+                        "category": "Church/religious organization",
+                        "category_list": [
+                            {
+                                "id": "187714557925874",
+                                "name": "Religious Organization"
+                            }
+                        ],
+                        "name": "Terra Nova Church | Vancouver",
+                        "id": "245144398882598"
+                    }
+                ]
+            },
+            "message": "Hello Terra Nova!\n\nCarolyn and I just wanted to thank you again for the wonderful installation service last Sunday.\n\nWe are so blessed to journey with you in this new season of doing life together.  We are also excited to see what God will bring to fruition in and through this community.\n\nIn HIs Grace,\n\npK",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "created_time": "2014-08-20T17:20:49+0000",
+            "updated_time": "2014-08-20T17:20:49+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MjQ1MTQ0Mzk4ODgyNTk4",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_767179263345773",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "===== ANNOUNCEMENT =====\nAnnual Church-wide Association Sport's Day\nDate: Sat. August 2nd\nPlace: Cloverdale Athletic Park (6410 168 St, Surrey, BC V3S)\nTime: 10am\nThis is the day that all churches join to have good fellowship with each other. There will be exciting sports tournaments and delicious food so please come and enjoy this fun filled day!",
+            "picture": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/s130x130/10329278_767179150012451_3016967807536721945_n.jpg?oh=2e3a722e0a41d2ccde260650f17a2c7f&oe=55046268&__gda__=1427371151_2863b6abe7d51c0acf6b28633d30bd6d",
+            "link": "https://www.facebook.com/TerraNovaChurchCa/photos/a.247296692000702.65277.245144398882598/767179150012451/?type=1&relevant_count=1",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+            "privacy": {
+                "value": ""
+            },
+            "place": {
+                "id": "148819408493828",
+                "name": "Cloverdale Athletic Park",
+                "location": {
+                    "city": "Surrey",
+                    "country": "Canada",
+                    "latitude": 49.117915455499,
+                    "longitude": -122.75398273086,
+                    "state": "BC",
+                    "street": "6330 168 Street",
+                    "zip": "V3S"
+                }
+            },
+            "type": "photo",
+            "status_type": "added_photos",
+            "object_id": "767179150012451",
+            "created_time": "2014-07-31T05:37:26+0000",
+            "updated_time": "2014-07-31T05:49:39+0000",
+            "shares": {
+                "count": 1
+            },
+            "likes": {
+                "data": [
+                    {
+                        "id": "661279213992340",
+                        "name": "Helen Park"
+                    },
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "10152718340082550",
+                        "name": "Helen Lee"
+                    },
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    },
+                    {
+                        "id": "10152659921081263",
+                        "name": "Carmel Azelia Edmonds"
+                    },
+                    {
+                        "id": "10154811398330567",
+                        "name": "Lewis Cho"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTQ4MTEzOTgzMzA1Njc=",
+                        "before": "NjYxMjc5MjEzOTkyMzQw"
+                    }
+                }
+            },
+            "comments": {
+                "data": [
+                    {
+                        "id": "767179150012451_767181623345537",
+                        "from": {
+                            "id": "10152659921081263",
+                            "name": "Carmel Azelia Edmonds"
+                        },
+                        "message": "Show some love Terra Nova people! :D",
+                        "can_remove": false,
+                        "created_time": "2014-07-31T05:47:33+0000",
+                        "like_count": 1,
+                        "user_likes": false
+                    },
+                    {
+                        "id": "767179150012451_767181786678854",
+                        "from": {
+                            "id": "10152659921081263",
+                            "name": "Carmel Azelia Edmonds"
+                        },
+                        "message": "Shane , Jamie , Toshiro  please say you'll be there??!?",
+                        "message_tags": [
+                            {
+                                "id": "10152847737660631",
+                                "name": "Shane",
+                                "type": "user",
+                                "offset": 0,
+                                "length": 5
+                            },
+                            {
+                                "id": "10202307206996293",
+                                "name": "Jamie",
+                                "type": "user",
+                                "offset": 8,
+                                "length": 5
+                            },
+                            {
+                                "id": "10152594301672804",
+                                "name": "Toshiro",
+                                "type": "user",
+                                "offset": 16,
+                                "length": 7
+                            }
+                        ],
+                        "can_remove": false,
+                        "created_time": "2014-07-31T05:48:33+0000",
+                        "like_count": 0,
+                        "user_likes": false
+                    },
+                    {
+                        "id": "767179150012451_767182070012159",
+                        "from": {
+                            "id": "10152847737660631",
+                            "name": "Shane Eastwood"
+                        },
+                        "message": "I think so.",
+                        "can_remove": false,
+                        "created_time": "2014-07-31T05:49:39+0000",
+                        "like_count": 0,
+                        "user_likes": false
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOelkzTVRneU1EY3dNREV5TVRVNU9qRTBNRFkzT0RVM056azZNdz09",
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOelkzTVRneE5qSXpNelExTlRNM09qRTBNRFkzT0RVMk5UTTZNUT09"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_766101846786848",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "July 27 Sermon: \"Dinner Interruptions\" by Pastor Carolyn Her is now online at http://terranovachurch.ca/tnc/dinner-interruptions-by-pastor-carolyn-her/.",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAlkzAm2Fx9ErB3&w=158&h=158&url=http%3A%2F%2Fterranovachurch.ca%2Ftnc%2Fwp-content%2Fuploads%2F2014%2F02%2Ftnc-fblogo.jpg",
+            "link": "http://terranovachurch.ca/tnc/dinner-interruptions-by-pastor-carolyn-her/",
+            "name": "Dinner Interruptions by Pastor Carolyn Her | Terra Nova Church",
+            "caption": "terranovachurch.ca",
+            "description": "Dinner Interruptions by Pastor Carolyn Her July 27, 2014 Guest Speaker, Sermons Leave a CommentDinner Interruptions by Pastor Carolyn HerPlayPauseClick here to download this week’s sermon.Luke 7:36-50 English Standard Version (ESV)A Sinful Woman Forgiven 36 One of the Pharisees asked him to eat with…",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2014-07-29T06:14:30+0000",
+            "updated_time": "2014-07-29T06:14:30+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI0OTgyNDQ4ODkyOTA=",
+                        "before": "MTAxNTI0OTgyNDQ4ODkyOTA="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_761854520544914",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Great job team! Another win for GCC!",
+            "picture": "https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/p130x130/10492276_761854513878248_9154865512892705780_n.jpg?oh=d73922add8ed156315f0e3d4b3bc6abc&oe=5512CE59",
+            "link": "https://www.facebook.com/TerraNovaChurchCa/photos/a.247296692000702.65277.245144398882598/761854513878248/?type=1&relevant_count=1",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "photo",
+            "status_type": "added_photos",
+            "object_id": "761854513878248",
+            "application": {
+                "name": "Instagram",
+                "namespace": "instapp",
+                "id": "124024574287414"
+            },
+            "created_time": "2014-07-21T07:27:24+0000",
+            "updated_time": "2014-07-21T16:36:19+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10152512758333575",
+                        "name": "Rebecca Jung"
+                    },
+                    {
+                        "id": "10152659921081263",
+                        "name": "Carmel Azelia Edmonds"
+                    },
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    },
+                    {
+                        "id": "10154927771325381",
+                        "name": "Christina Chung"
+                    },
+                    {
+                        "id": "10152959287726654",
+                        "name": "David Choi"
+                    },
+                    {
+                        "id": "10152944317428109",
+                        "name": "Adam Joe"
+                    },
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "10154811398330567",
+                        "name": "Lewis Cho"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTQ4MTEzOTgzMzA1Njc=",
+                        "before": "MTAxNTI1MTI3NTgzMzM1NzU="
+                    }
+                }
+            },
+            "comments": {
+                "data": [
+                    {
+                        "id": "761854513878248_762036910526675",
+                        "from": {
+                            "id": "10152498244889290",
+                            "name": "Jenny Lee"
+                        },
+                        "message": "Nice shot!",
+                        "can_remove": false,
+                        "created_time": "2014-07-21T16:36:19+0000",
+                        "like_count": 0,
+                        "user_likes": false
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOell5TURNMk9URXdOVEkyTmpjMU9qRTBNRFU1TmpBMU56azZNUT09",
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOell5TURNMk9URXdOVEkyTmpjMU9qRTBNRFU1TmpBMU56azZNUT09"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_761671217229911",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "July 20 Sermon: \"He is the Good Shepherd\" by Pastor Kevin Her is now online at http://terranovachurch.ca/tnc/he-is-the-good-shepherd-by-pastor-kevin-her/.",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBq3Oc5HpYSdwNq&w=158&h=158&url=http%3A%2F%2Fterranovachurch.ca%2Ftnc%2Fwp-content%2Fuploads%2F2014%2F07%2FSlide013.jpg",
+            "link": "http://terranovachurch.ca/tnc/he-is-the-good-shepherd-by-pastor-kevin-her/",
+            "name": "He is the Good Shepherd by Pastor Kevin Her | Terra Nova Church",
+            "caption": "terranovachurch.ca",
+            "description": "He is the Good Shepherd by Pastor Kevin Her July 20, 2014 Sermon Series, Sermons Leave a CommentHe is the Good Shepherd by Pastor Kevin HerPlayPauseClick here to download this week’s sermon.John 10:1-18 English Standard Version (ESV)I Am the Good Shepherd 10 “Truly, truly, I say to you, he who does…",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2014-07-20T21:16:58+0000",
+            "updated_time": "2014-07-20T21:16:58+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10152659921081263",
+                        "name": "Carmel Azelia Edmonds"
+                    },
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI0OTgyNDQ4ODkyOTA=",
+                        "before": "MTAxNTI2NTk5MjEwODEyNjM="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_759425840787782",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "A great start to our GCC softball team for winning their first game of the season!",
+            "picture": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/q82/p130x130/10556345_759425830787783_1739187768878371892_n.jpg?oh=d27712852c3c1f9fe7cdb7fc603efec9&oe=550ECF9E&__gda__=1427336731_cc2e6a5c6f2dc8ea89b2c3970adf4114",
+            "link": "https://www.facebook.com/TerraNovaChurchCa/photos/a.247296692000702.65277.245144398882598/759425830787783/?type=1&relevant_count=1",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "photo",
+            "status_type": "added_photos",
+            "object_id": "759425830787783",
+            "application": {
+                "name": "Instagram",
+                "namespace": "instapp",
+                "id": "124024574287414"
+            },
+            "created_time": "2014-07-16T07:08:00+0000",
+            "updated_time": "2014-07-16T07:08:00+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10205091379591937",
+                        "name": "Chris Kim"
+                    },
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "10152944317428109",
+                        "name": "Adam Joe"
+                    },
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    },
+                    {
+                        "id": "10154869148705585",
+                        "name": "Moses Sang Lim"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTQ4NjkxNDg3MDU1ODU=",
+                        "before": "MTAyMDUwOTEzNzk1OTE5Mzc="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_758231764240523",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "July 13 Sermon: \"He is the Light of the World\" by Pastor Kevin Her is now online at http://terranovachurch.ca/tnc/he-is-the-light-of-the-world-by-pastor-kevin-her/.",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCkcKFdcic8vwA9&w=158&h=158&url=http%3A%2F%2Fterranovachurch.ca%2Ftnc%2Fwp-content%2Fuploads%2F2014%2F07%2FSlide012.jpg",
+            "link": "http://terranovachurch.ca/tnc/he-is-the-light-of-the-world-by-pastor-kevin-her/",
+            "name": "He is the Light of the World by Pastor Kevin Her | Terra Nova Church",
+            "caption": "terranovachurch.ca",
+            "description": "He is the Light of the World by Pastor Kevin Her July 13, 2014 Sermon Series, Sermons Leave a CommentHe is the Light of the World by Pastor Kevin HerPlayPauseClick here to download this week’s sermon.John 8:12-20 English Standard Version (ESV)I Am the Light of the World 12 Again Jesus spoke to them,…",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2014-07-14T06:25:41+0000",
+            "updated_time": "2014-07-14T06:25:41+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI0OTgyNDQ4ODkyOTA=",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_757133727683660",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Keeping Lummi Missionaries in our prayers as they are leaving tomorrow. 07.12-19.14",
+            "picture": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/p130x130/10488015_757133721016994_58984943235937649_n.jpg?oh=a4e13b54b916bb53c31713680560c54b&oe=55023097&__gda__=1423058770_67f4161a527f45ac74c480558d793694",
+            "link": "https://www.facebook.com/TerraNovaChurchCa/photos/a.247296692000702.65277.245144398882598/757133721016994/?type=1&relevant_count=1",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "photo",
+            "status_type": "added_photos",
+            "object_id": "757133721016994",
+            "application": {
+                "name": "Instagram",
+                "namespace": "instapp",
+                "id": "124024574287414"
+            },
+            "created_time": "2014-07-12T06:05:13+0000",
+            "updated_time": "2014-07-12T06:05:13+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "996924316988180",
+                        "name": "Hana Chung"
+                    },
+                    {
+                        "id": "661279213992340",
+                        "name": "Helen Park"
+                    },
+                    {
+                        "id": "10154927771325381",
+                        "name": "Christina Chung"
+                    },
+                    {
+                        "id": "10154869148705585",
+                        "name": "Moses Sang Lim"
+                    },
+                    {
+                        "id": "10152619107473251",
+                        "name": "Jennifer Jung"
+                    },
+                    {
+                        "id": "10152659921081263",
+                        "name": "Carmel Azelia Edmonds"
+                    },
+                    {
+                        "id": "10154811398330567",
+                        "name": "Lewis Cho"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTQ4MTEzOTgzMzA1Njc=",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_757131954350504",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Please note that our sermon from July 6th was not uploaded to our website due to technical difficulties.",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "status_type": "mobile_status_update",
+            "created_time": "2014-07-12T05:55:25+0000",
+            "updated_time": "2014-07-12T05:55:25+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10152498244889290",
+                        "name": "Jenny Lee"
+                    },
+                    {
+                        "id": "10152659921081263",
+                        "name": "Carmel Azelia Edmonds"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI2NTk5MjEwODEyNjM=",
+                        "before": "MTAxNTI0OTgyNDQ4ODkyOTA="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_751334024930297",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "June 29 Sermon: \"He is the Son of Man\" by Pastor Kevin Her is now online at http://terranovachurch.ca/tnc/he-is-the-son-of-man-by-pastor-kevin-her/.",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAv0r3XxkX6I9q0&w=158&h=158&url=http%3A%2F%2Fterranovachurch.ca%2Ftnc%2Fwp-content%2Fuploads%2F2014%2F07%2FSlide01.jpg",
+            "link": "http://terranovachurch.ca/tnc/he-is-the-son-of-man-by-pastor-kevin-her/",
+            "name": "He is the Son of Man by Pastor Kevin Her | Terra Nova Church",
+            "caption": "terranovachurch.ca",
+            "description": "He is the Son of Man by Pastor Kevin Her June 29, 2014 Sermon Series, Sermons Leave a CommentHe is the Son of Man by Pastor Kevin HerPlayPauseClick here to download this week’s sermon.Matthew 16:13-17 English Standard Version (ESV)Peter Confesses Jesus as the Christ 13 Now when Jesus came into the d…",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2014-07-01T06:35:56+0000",
+            "updated_time": "2014-07-01T06:35:56+0000"
+        },
+        {
+            "id": "245144398882598_742532229143810",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "===== ANNOUNCEMENTS =====\n1. HOT DOG FUNDRAISER to support Summer Missions:\nWhen – June 22 after each service\nWhere – Patio area\nPrice – $5 for Hot Dog or Corn Dog & Drink Combo\nWe will be selling Home-made Corn Dogs and Premium Hot Dogs with Kimchi and Chili toppings available to raise funds for the mission trips. Volunteers and donations (soda, wieners, supplies etc.) needed. Please contact Helen Park.\n\n2. LADIES’ DODGEBALL\nWe are looking for members for Church-wide Sports Day on August 2nd. If you are interested in playing, please contact Helen Park.\n\n3. VBS & SUMMER CAMP VOLUNTEERS NEEDED\nIf you are interested, please signup the volunteer application form by June 15 (today) at the Info Desk. All volunteers must attend the orientation on June 29 (Sun) @4:30pm, Vision Hall.",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "status_type": "mobile_status_update",
+            "created_time": "2014-06-16T04:24:24+0000",
+            "updated_time": "2014-06-16T04:24:24+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10154894124515252",
+                        "name": "Jason Huh"
+                    },
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MjQ1MTQ0Mzk4ODgyNTk4",
+                        "before": "MTAxNTQ4OTQxMjQ1MTUyNTI="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_742483672481999",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "story": "Terra Nova Church | Vancouver updated their cover photo.",
+            "story_tags": {
+                "0": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver",
+                        "offset": 0,
+                        "length": 29,
+                        "type": "page"
+                    }
+                ]
+            },
+            "picture": "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/s130x130/10481946_742483535815346_5425725325396653906_n.jpg?oh=a9c61b886e9236fd3eef958a8da7a1c0&oe=550F6DF6&__gda__=1423497232_430e7071b40a4be433df73ce6c13db78",
+            "link": "https://www.facebook.com/TerraNovaChurchCa/photos/a.339529899444047.84109.245144398882598/742483535815346/?type=1&relevant_count=1",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "photo",
+            "object_id": "742483535815346",
+            "created_time": "2014-06-16T01:51:25+0000",
+            "updated_time": "2014-06-16T01:51:25+0000"
+        },
+        {
+            "id": "245144398882598_10152762120759498",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Are you registered to the TNC 2014 retreat yet? Do it online!\nhttp://terranovachurch.ca/tnc/tnc-2014-retreat/",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAlkzAm2Fx9ErB3&w=158&h=158&url=http%3A%2F%2Fterranovachurch.ca%2Ftnc%2Fwp-content%2Fuploads%2F2014%2F02%2Ftnc-fblogo.jpg",
+            "link": "http://terranovachurch.ca/tnc/tnc-2014-retreat/",
+            "name": "TNC 2014 Retreat | terra nova church",
+            "caption": "terranovachurch.ca",
+            "description": "TNC 2014 Retreat registration form",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2014-03-27T18:36:23+0000",
+            "updated_time": "2014-03-27T18:36:23+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    },
+                    {
+                        "id": "661279213992340",
+                        "name": "Helen Park"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "NjYxMjc5MjEzOTkyMzQw",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_10100231836630493",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Check out last week's sermon \"Out of the Boat\" by Pastor Kevin Her. http://terranovachurch.ca/tnc/02022014/",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAlkzAm2Fx9ErB3&w=158&h=158&url=http%3A%2F%2Fterranovachurch.ca%2Ftnc%2Fwp-content%2Fuploads%2F2014%2F02%2Ftnc-fblogo.jpg",
+            "link": "http://terranovachurch.ca/tnc/02022014/",
+            "name": "Out of the Boat by Pastor Kevin Her | terra nova church",
+            "caption": "terranovachurch.ca",
+            "description": "Out of the Boat by Pastor Kevin Her February 2, 2014 Guest Speaker, Sermons Leave a CommentOut of the Boat by Past Kevin HerPlayPauseMatthew 14:22-33“Immediately he made the disciples get into the boat and go before him to the other side, while he dismissed the crowds. And after he had dismissed the...",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2014-02-09T22:46:05+0000",
+            "updated_time": "2014-02-09T22:46:05+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MjQ1MTQ0Mzk4ODgyNTk4",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_658656850864682",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "Times they are a changin...\nBut know that I'll miss you all and that won't change. #leavingonajetplane",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "status_type": "mobile_status_update",
+            "application": {
+                "name": "Facebook for iPhone",
+                "namespace": "fbiphone",
+                "id": "6628568379"
+            },
+            "created_time": "2014-01-08T17:25:20+0000",
+            "updated_time": "2014-01-08T17:25:20+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10152619107473251",
+                        "name": "Jennifer Jung"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI2MTkxMDc0NzMyNTE=",
+                        "before": "MTAxNTI2MTkxMDc0NzMyNTE="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_654073531323014",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "story": "Terra Nova Church | Vancouver commented on their own link.",
+            "story_tags": {
+                "0": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver",
+                        "offset": 0,
+                        "length": 29,
+                        "type": "page"
+                    }
+                ]
+            },
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "application": {
+                "name": "Facebook for iPhone",
+                "namespace": "fbiphone",
+                "id": "6628568379"
+            },
+            "created_time": "2013-12-31T08:48:17+0000",
+            "updated_time": "2013-12-31T08:48:17+0000"
+        },
+        {
+            "id": "245144398882598_654072424656458",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "TNC New Year's Eve Service\nDec. 31 (Tuesday) 8:00 PM – 10:00 PM @ Bethel Hall followed by GCC Combined Service from 10:00 PM - 12:00AM\n\nEnglish translation of the GCC Combined New Year's Eve Video Clip\n\n\" On a foggy day in Jan 2003\nWe started an adventure in the wilderness on a journey towards building a Church of God\nTen years filled with faith, obedience, grace and thankfulness\nWe have matured into a church filled with joy of life\nWhoever believes in Me will overflow with river of life\nThis river will flow into vast ocean then to all nations giving life to all\n2014 today, we are heading towards another decade of maturity and sharing. \nWherever this river flows, everything will come back to life\"\n\nhttp://vimeo.com/82863471\n",
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCfzcGHCoheV5-z&w=130&h=130&url=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F459%2F399%2F459399608_640.jpg",
+            "link": "http://vimeo.com/82863471",
+            "source": "http://vimeo.com/moogaloop.swf?clip_id=82863471&autoplay=1",
+            "name": "2014 송구영신예배 영상",
+            "description": "Vimeo is the home for high-quality videos and the people who love them.",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "video",
+            "status_type": "shared_story",
+            "application": {
+                "name": "Facebook for iPhone",
+                "namespace": "fbiphone",
+                "id": "6628568379"
+            },
+            "created_time": "2013-12-31T08:43:09+0000",
+            "updated_time": "2013-12-31T08:48:16+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10152619107473251",
+                        "name": "Jennifer Jung"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI2MTkxMDc0NzMyNTE=",
+                        "before": "MTAxNTI2MTkxMDc0NzMyNTE="
+                    }
+                }
+            },
+            "comments": {
+                "data": [
+                    {
+                        "id": "654072424656458_5740992",
+                        "from": {
+                            "category": "Church/religious organization",
+                            "category_list": [
+                                {
+                                    "id": "187714557925874",
+                                    "name": "Religious Organization"
+                                }
+                            ],
+                            "name": "Terra Nova Church | Vancouver",
+                            "id": "245144398882598"
+                        },
+                        "message": "Hope to see you all!",
+                        "can_remove": false,
+                        "created_time": "2013-12-31T08:48:16+0000",
+                        "like_count": 0,
+                        "user_likes": false
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOalUwTURjek5USTBOalUyTXpRNE9qRXpPRGcwTnprMk9UWTZNUT09",
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOalUwTURjek5USTBOalUyTXpRNE9qRXpPRGcwTnprMk9UWTZNUT09"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_633371006726600",
+            "from": {
+                "id": "10152793433031858",
+                "name": "Jeremy Chan"
+            },
+            "to": {
+                "data": [
+                    {
+                        "category": "Church/religious organization",
+                        "category_list": [
+                            {
+                                "id": "187714557925874",
+                                "name": "Religious Organization"
+                            }
+                        ],
+                        "name": "Terra Nova Church | Vancouver",
+                        "id": "245144398882598"
+                    }
+                ]
+            },
+            "message": "Nice website.. Yes! God is great!",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "created_time": "2013-11-20T23:23:04+0000",
+            "updated_time": "2013-11-20T23:23:04+0000"
+        },
+        {
+            "id": "245144398882598_629179537145747",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "http://terranovachurch.ca/form.php?pageID=62\n\nDon't forget to update your contact info in order to receive updates and news on TNC! \n\nYou can fill out this form on our website or fill out a connection card at Sunday service.",
+            "link": "http://terranovachurch.ca/form.php?pageID=62",
+            "name": "Terra Nova Church / Get Involved / Update Your Contact Info",
+            "caption": "terranovachurch.ca",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "link",
+            "status_type": "shared_story",
+            "created_time": "2013-11-14T03:16:44+0000",
+            "updated_time": "2013-11-14T03:16:44+0000"
+        },
+        {
+            "id": "245144398882598_621301181266916",
+            "from": {
+                "id": "10152884952290797",
+                "name": "David J. Choi"
+            },
+            "to": {
+                "data": [
+                    {
+                        "category": "Church/religious organization",
+                        "category_list": [
+                            {
+                                "id": "187714557925874",
+                                "name": "Religious Organization"
+                            }
+                        ],
+                        "name": "Terra Nova Church | Vancouver",
+                        "id": "245144398882598"
+                    }
+                ]
+            },
+            "message": "If you haven't heard by now, we made a very difficult announcement last week.  Pastor Tim and I announced our resignation at Terra Nova Church...and believe me, it was not an easy decision for either of us.\n\nAs I stood in front of you last week, I had flashbacks rushing through my mind as I looked into many of your eyes.  Though sad, I felt overwhelmed with thankfulness for you.  \n\nThis week was tough due to our circumstances.  However, a deeper look really helped me to realize a few important things:\n\n1.  The church is more than a great community of friends, she is the Bride of Christ.  We are loved by Christ and it is His love that keeps us as one body.\n\n2.  Spiritual warfare is real.  Wherever God is at work, the Enemy is at work.  he seeks to hinder, destroy, and distract.  Our circumstance is beyond human activity - it is a combination of God at work and the Enemy trying his best to thwart that work\n\n3.  Practicing reconciliation with one another, reminds us of Jesus reconciling us to God.  The Cross of Christ just became more real to me this week.  When friends look to heal, we see the power of the work of Jesus on the cross.  Reconciliation is the Gospel in action.\n\n4.  Leaders often arise in the midst of crisis.  In my 4 years at TNC, I have not seen greater acts of courageous leadership until the past few weeks...where were you the past 4 year?!  =)   Needless to say, I think (hope and pray) that you will be fine the next 4 and more.\n\nThis is just 4...and I will share a lot more in the weeks to come.  But I am encouraged and challenged by each of you.  My last Sunday will be December 22nd.  Pastor Tim's will be sometime in January.  I would love to spend my last few weeks as your Lead Pastor to really bless you and be blessed by you.",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "created_time": "2013-11-01T22:40:35+0000",
+            "updated_time": "2013-11-01T22:40:35+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MjQ1MTQ0Mzk4ODgyNTk4",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_621237577939943",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "message": "===== ANNOUNCEMENTS =====\n\n-  Join us tonight at the \"God in My Everything\" worship night in Vision Hall at 7:30pm.  Pastor Ken Shigematsu will be sharing some wisdom\n\n-  Daylight Savings is THIS SUNDAY (1 hour back!)\n\n- Townhall meeting will take place at a new location (not the Choe home)...the same room we worship in right after our service.",
+            "privacy": {
+                "value": ""
+            },
+            "type": "status",
+            "status_type": "mobile_status_update",
+            "created_time": "2013-11-01T20:04:31+0000",
+            "updated_time": "2013-11-01T20:04:31+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "10154891664560112",
+                        "name": "Lydia Song Choi"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTQ4OTE2NjQ1NjAxMTI=",
+                        "before": "MTAxNTQ4OTE2NjQ1NjAxMTI="
+                    }
+                }
+            }
+        },
+        {
+            "id": "245144398882598_605780759485625",
+            "from": {
+                "category": "Church/religious organization",
+                "category_list": [
+                    {
+                        "id": "187714557925874",
+                        "name": "Religious Organization"
+                    }
+                ],
+                "name": "Terra Nova Church | Vancouver",
+                "id": "245144398882598"
+            },
+            "story": "Terra Nova Church | Vancouver updated their cover photo.",
+            "story_tags": {
+                "0": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver",
+                        "offset": 0,
+                        "length": 29,
+                        "type": "page"
+                    }
+                ]
+            },
+            "picture": "https://scontent-b.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/s130x130/1378513_605780726152295_48045255_n.jpg?oh=4c9c635a8538fe508a838d31b192d193&oe=55047E93",
+            "link": "https://www.facebook.com/TerraNovaChurchCa/photos/a.339529899444047.84109.245144398882598/605780726152295/?type=1&relevant_count=1",
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+            "privacy": {
+                "value": ""
+            },
+            "type": "photo",
+            "object_id": "605780726152295",
+            "created_time": "2013-10-04T17:23:11+0000",
+            "updated_time": "2013-10-04T17:23:11+0000",
+            "likes": {
+                "data": [
+                    {
+                        "id": "245144398882598",
+                        "name": "Terra Nova Church | Vancouver"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "after": "MjQ1MTQ0Mzk4ODgyNTk4",
+                        "before": "MjQ1MTQ0Mzk4ODgyNTk4"
+                    }
+                }
+            }
+        }
+    ],
+    "paging": {
+        "previous": "https://graph.facebook.com/v2.2/245144398882598/feed?since=1416288671&limit=25&__previous=1",
+        "next": "https://graph.facebook.com/v2.2/245144398882598/feed?limit=25&until=1380907390"
+    }
+}
